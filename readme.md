@@ -4,12 +4,11 @@
 Project Ripple Effect is a social media application designed specifically for schools and colleges. It aims to create a safe and engaging platform for students, teachers, and staff to connect, share, and collaborate.
 
 ## Features
-- **User Profiles**: Create and manage personal profiles.
 - **News Feed**: Stay updated with the latest posts and announcements.
 - **Groups**: Join or create groups for clubs, classes, and other interests.
-- **Messaging**: Send direct messages to other users.
 - **Events**: Organize and RSVP to school and college events.
 - **Notifications**: Receive real-time updates and alerts.
+- **Question and Answering**: Where students can post questions and people can answer for those questions.
 
 ## Installation
 1. Clone the repository:
@@ -48,8 +47,6 @@ Project Ripple Effect is a social media application designed specifically for sc
 
 ## Usage
 1. Open your web browser and go to `http://localhost:8000`.
-2. Sign up for a new account or log in with your existing credentials.
-3. Explore the features and start connecting with your school or college community.
 
 ## Contributing
 We welcome contributions from the community. To contribute, please follow these steps:
@@ -60,7 +57,7 @@ We welcome contributions from the community. To contribute, please follow these 
 5. Create a pull request.
 
 ## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+Not yet licensed.
 
 ## Contact
-For any questions or feedback, please contact us at [support@rippleeffect.com](mailto:support@rippleeffect.com).
+For any questions or feedback, please contact us at [kmkrworks@gmail.com](mailto:kmkrworks@gmail.com).
